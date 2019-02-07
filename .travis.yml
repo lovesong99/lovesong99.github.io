@@ -17,6 +17,7 @@ git:
   submodules: false
 
 before_install:
+  - export TZ=Asia/Taipei
   - git submodule update --init --recursive
 
 install:

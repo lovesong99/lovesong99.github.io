@@ -69,13 +69,15 @@
 body {
     background-color:#FFF;
     color:#444;
-    font-size: 15px;
+    font-size: 16px;
     /**
     font-family:"TIBch", "Classic Grotesque W01", "Helvetica Neue", Arial, "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "WenQuanYi Micro Hei", SimSun, sans-serif;
     **/
-    font-family: "Iowan Old Style", "Ovo", "Hoefler Text", Georgia, "Times New Roman", "TIBch", "Source Han Sans", "PingFangSC-Regular", "Hiragino Sans GB", "STHeiti", "Microsoft Yahei", "Droid Sans Fallback", "WenQuanYi Micro Hei", sans-serif;
+    font-family: Arial, "文泉驛正黑", "WenQuanYi Zen Hei", "儷黑 Pro", "LiHei Pro", "微軟正黑體", "Microsoft JhengHei", sans-serif;
     /**-webkit-font-smoothing: antialiased;**/
     -moz-osx-font-smoothing: grayscale;
+    line-height: 1.8em;
+    letter-spacing: 0.8px;
 }
 img{
     width: auto;
@@ -358,8 +360,9 @@ textarea {
     border-color: transparent #555 transparent transparent;
 }
 .post-content {
-    font-size: 1em;
-    line-height: 1.7;
+    font-size: 16px;
+    line-height: 1.8em;
+    letter-spacing: 0.8px;
     color:#444;
     padding-top:27px;
 }

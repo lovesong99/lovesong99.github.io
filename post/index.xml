@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 小賴的聽歌旅程</title>
-    <link>http://example.org/post/</link>
+    <link>/post/</link>
     <description>Recent content in Posts on 小賴的聽歌旅程</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
     <lastBuildDate>Wed, 06 Feb 2019 22:15:43 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>【單曲】蔡小虎 - 吃苦當作吃補</title>
-      <link>http://example.org/post/tigertsai-makes-you-stronger-song/</link>
+      <link>/post/tigertsai-makes-you-stronger-song/</link>
       <pubDate>Wed, 06 Feb 2019 22:15:43 +0800</pubDate>
       
-      <guid>http://example.org/post/tigertsai-makes-you-stronger-song/</guid>
+      <guid>/post/tigertsai-makes-you-stronger-song/</guid>
       <description>&lt;p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/YGSSvMhOGgI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -37,10 +37,10 @@
     
     <item>
       <title>【單曲】李茂山 - 茶噢</title>
-      <link>http://example.org/post/leemaoshan-dayo-song/</link>
+      <link>/post/leemaoshan-dayo-song/</link>
       <pubDate>Tue, 05 Feb 2019 22:00:49 +0800</pubDate>
       
-      <guid>http://example.org/post/leemaoshan-dayo-song/</guid>
+      <guid>/post/leemaoshan-dayo-song/</guid>
       <description>&lt;p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/qMWp3yltmUM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -55,10 +55,10 @@
     
     <item>
       <title>【單曲】阿輪 - 風雨無情</title>
-      <link>http://example.org/post/wind-rain-are-heartless/</link>
+      <link>/post/wind-rain-are-heartless/</link>
       <pubDate>Mon, 04 Feb 2019 21:58:00 +0800</pubDate>
       
-      <guid>http://example.org/post/wind-rain-are-heartless/</guid>
+      <guid>/post/wind-rain-are-heartless/</guid>
       <description>&lt;p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/AzbXaLLhm7Y&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -79,10 +79,10 @@
     
     <item>
       <title>【單曲】李茂山 - 遲來的愛</title>
-      <link>http://example.org/post/leemaoshan-latelove-song/</link>
+      <link>/post/leemaoshan-latelove-song/</link>
       <pubDate>Sun, 03 Feb 2019 21:50:21 +0800</pubDate>
       
-      <guid>http://example.org/post/leemaoshan-latelove-song/</guid>
+      <guid>/post/leemaoshan-latelove-song/</guid>
       <description>&lt;p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/XxqNL7mw1xk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -98,12 +98,12 @@
     
     <item>
       <title>【單曲】任昌丁 - 醒腦歌單</title>
-      <link>http://example.org/post/limchangjung-fast-beatsong/</link>
+      <link>/post/limchangjung-fast-beatsong/</link>
       <pubDate>Sat, 02 Feb 2019 21:33:55 +0800</pubDate>
       
-      <guid>http://example.org/post/limchangjung-fast-beatsong/</guid>
+      <guid>/post/limchangjung-fast-beatsong/</guid>
       <description>&lt;figure&gt;
-    &lt;img src=&#34;http://example.org/img/000018.jpg&#34;
+    &lt;img src=&#34;/img/000018.jpg&#34;
          alt=&#34;任昌丁&#34;/&gt; 
 &lt;/figure&gt;
 
@@ -113,10 +113,10 @@
     
     <item>
       <title>【單曲】李茂山、林淑容 - 無言的結局</title>
-      <link>http://example.org/post/leemaoshan-annalin-noending-song/</link>
+      <link>/post/leemaoshan-annalin-noending-song/</link>
       <pubDate>Fri, 01 Feb 2019 22:07:55 +0800</pubDate>
       
-      <guid>http://example.org/post/leemaoshan-annalin-noending-song/</guid>
+      <guid>/post/leemaoshan-annalin-noending-song/</guid>
       <description>&lt;p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/LJVR3dAL8Vk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -136,10 +136,10 @@
     
     <item>
       <title>【單曲】李茂山 - 最後的選擇</title>
-      <link>http://example.org/post/leemaoshan-lastchoice-song/</link>
+      <link>/post/leemaoshan-lastchoice-song/</link>
       <pubDate>Thu, 31 Jan 2019 21:24:00 +0800</pubDate>
       
-      <guid>http://example.org/post/leemaoshan-lastchoice-song/</guid>
+      <guid>/post/leemaoshan-lastchoice-song/</guid>
       <description>&lt;p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/h0Mg7a4U4IM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -160,10 +160,10 @@
     
     <item>
       <title>【單曲】李茂山 - 我的心情</title>
-      <link>http://example.org/post/leemaoshan-mymood-song/</link>
+      <link>/post/leemaoshan-mymood-song/</link>
       <pubDate>Wed, 30 Jan 2019 20:19:17 +0800</pubDate>
       
-      <guid>http://example.org/post/leemaoshan-mymood-song/</guid>
+      <guid>/post/leemaoshan-mymood-song/</guid>
       <description>&lt;p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/PCN-I1jgb6Q&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -182,12 +182,12 @@
     
     <item>
       <title>【歌手】蔡國權(Terence Choi)</title>
-      <link>http://example.org/post/terence-choi/</link>
+      <link>/post/terence-choi/</link>
       <pubDate>Mon, 28 Jan 2019 19:51:41 +0800</pubDate>
       
-      <guid>http://example.org/post/terence-choi/</guid>
+      <guid>/post/terence-choi/</guid>
       <description>&lt;figure&gt;
-    &lt;img src=&#34;http://example.org/img/000017.jpg&#34;
+    &lt;img src=&#34;/img/000017.jpg&#34;
          alt=&#34;蔡國權&#34;/&gt; 
 &lt;/figure&gt;
 
@@ -197,12 +197,12 @@
     
     <item>
       <title>【專輯】李茂山 - 賀新年迎財神</title>
-      <link>http://example.org/post/leemaoshan-1989newyear-album/</link>
+      <link>/post/leemaoshan-1989newyear-album/</link>
       <pubDate>Sun, 27 Jan 2019 19:32:46 +0800</pubDate>
       
-      <guid>http://example.org/post/leemaoshan-1989newyear-album/</guid>
+      <guid>/post/leemaoshan-1989newyear-album/</guid>
       <description>&lt;figure&gt;
-    &lt;img src=&#34;http://example.org/img/000015.jpg&#34;
+    &lt;img src=&#34;/img/000015.jpg&#34;
          alt=&#34;《賀新年迎財神》封面（星馬復刻版/台版）&#34;/&gt; &lt;figcaption&gt;
             &lt;h4&gt;《賀新年迎財神》封面（星馬復刻版/台版）&lt;/h4&gt;
         &lt;/figcaption&gt;

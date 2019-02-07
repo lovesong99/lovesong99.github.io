@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>小賴的聽歌旅程</title>
-    <link>http://example.org/</link>
+    <link>/</link>
     <description>Recent content on 小賴的聽歌旅程</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
     <lastBuildDate>Wed, 06 Feb 2019 22:15:43 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>【單曲】蔡小虎 - 吃苦當作吃補</title>
-      <link>http://example.org/post/tigertsai-makes-you-stronger-song/</link>
+      <link>/post/tigertsai-makes-you-stronger-song/</link>
       <pubDate>Wed, 06 Feb 2019 22:15:43 +0800</pubDate>
       
-      <guid>http://example.org/post/tigertsai-makes-you-stronger-song/</guid>
+      <guid>/post/tigertsai-makes-you-stronger-song/</guid>
       <description>&lt;p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/YGSSvMhOGgI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -37,10 +37,10 @@
     
     <item>
       <title>【單曲】李茂山 - 茶噢</title>
-      <link>http://example.org/post/leemaoshan-dayo-song/</link>
+      <link>/post/leemaoshan-dayo-song/</link>
       <pubDate>Tue, 05 Feb 2019 22:00:49 +0800</pubDate>
       
-      <guid>http://example.org/post/leemaoshan-dayo-song/</guid>
+      <guid>/post/leemaoshan-dayo-song/</guid>
       <description>&lt;p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/qMWp3yltmUM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -55,10 +55,10 @@
     
     <item>
       <title>【單曲】阿輪 - 風雨無情</title>
-      <link>http://example.org/post/wind-rain-are-heartless/</link>
+      <link>/post/wind-rain-are-heartless/</link>
       <pubDate>Mon, 04 Feb 2019 21:58:00 +0800</pubDate>
       
-      <guid>http://example.org/post/wind-rain-are-heartless/</guid>
+      <guid>/post/wind-rain-are-heartless/</guid>
       <description>&lt;p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/AzbXaLLhm7Y&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -79,10 +79,10 @@
     
     <item>
       <title>【單曲】李茂山 - 遲來的愛</title>
-      <link>http://example.org/post/leemaoshan-latelove-song/</link>
+      <link>/post/leemaoshan-latelove-song/</link>
       <pubDate>Sun, 03 Feb 2019 21:50:21 +0800</pubDate>
       
-      <guid>http://example.org/post/leemaoshan-latelove-song/</guid>
+      <guid>/post/leemaoshan-latelove-song/</guid>
       <description>&lt;p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/XxqNL7mw1xk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -98,12 +98,12 @@
     
     <item>
       <title>【單曲】任昌丁 - 醒腦歌單</title>
-      <link>http://example.org/post/limchangjung-fast-beatsong/</link>
+      <link>/post/limchangjung-fast-beatsong/</link>
       <pubDate>Sat, 02 Feb 2019 21:33:55 +0800</pubDate>
       
-      <guid>http://example.org/post/limchangjung-fast-beatsong/</guid>
+      <guid>/post/limchangjung-fast-beatsong/</guid>
       <description>&lt;figure&gt;
-    &lt;img src=&#34;http://example.org/img/000018.jpg&#34;
+    &lt;img src=&#34;/img/000018.jpg&#34;
          alt=&#34;任昌丁&#34;/&gt; 
 &lt;/figure&gt;
 
@@ -113,10 +113,10 @@
     
     <item>
       <title>【單曲】李茂山、林淑容 - 無言的結局</title>
-      <link>http://example.org/post/leemaoshan-annalin-noending-song/</link>
+      <link>/post/leemaoshan-annalin-noending-song/</link>
       <pubDate>Fri, 01 Feb 2019 22:07:55 +0800</pubDate>
       
-      <guid>http://example.org/post/leemaoshan-annalin-noending-song/</guid>
+      <guid>/post/leemaoshan-annalin-noending-song/</guid>
       <description>&lt;p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/LJVR3dAL8Vk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -136,10 +136,10 @@
     
     <item>
       <title>【單曲】李茂山 - 最後的選擇</title>
-      <link>http://example.org/post/leemaoshan-lastchoice-song/</link>
+      <link>/post/leemaoshan-lastchoice-song/</link>
       <pubDate>Thu, 31 Jan 2019 21:24:00 +0800</pubDate>
       
-      <guid>http://example.org/post/leemaoshan-lastchoice-song/</guid>
+      <guid>/post/leemaoshan-lastchoice-song/</guid>
       <description>&lt;p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/h0Mg7a4U4IM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -160,10 +160,10 @@
     
     <item>
       <title>【單曲】李茂山 - 我的心情</title>
-      <link>http://example.org/post/leemaoshan-mymood-song/</link>
+      <link>/post/leemaoshan-mymood-song/</link>
       <pubDate>Wed, 30 Jan 2019 20:19:17 +0800</pubDate>
       
-      <guid>http://example.org/post/leemaoshan-mymood-song/</guid>
+      <guid>/post/leemaoshan-mymood-song/</guid>
       <description>&lt;p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/PCN-I1jgb6Q&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -182,12 +182,12 @@
     
     <item>
       <title>【歌手】蔡國權(Terence Choi)</title>
-      <link>http://example.org/post/terence-choi/</link>
+      <link>/post/terence-choi/</link>
       <pubDate>Mon, 28 Jan 2019 19:51:41 +0800</pubDate>
       
-      <guid>http://example.org/post/terence-choi/</guid>
+      <guid>/post/terence-choi/</guid>
       <description>&lt;figure&gt;
-    &lt;img src=&#34;http://example.org/img/000017.jpg&#34;
+    &lt;img src=&#34;/img/000017.jpg&#34;
          alt=&#34;蔡國權&#34;/&gt; 
 &lt;/figure&gt;
 
@@ -197,10 +197,10 @@
     
     <item>
       <title>起點</title>
-      <link>http://example.org/about/</link>
+      <link>/about/</link>
       <pubDate>Sun, 27 Jan 2019 20:19:21 +0800</pubDate>
       
-      <guid>http://example.org/about/</guid>
+      <guid>/about/</guid>
       <description>聽歌到現在也差不多13、4年的時間了，以下來做個回顧，不會寫得太細，稍微帶過一下，之後有機會再發文針對每段期間寫詳細一些。
 記得真正開始喜歡一個歌手是從國一時開始，那時候網路上有很多音樂網，像什麼「天馬音樂網」、大陸的「51wma(其實它好像叫MP3音樂網，但網址裡有51wma，我就那樣稱呼了)」在當時都是我常常上去挖音樂的地方，當然Youtube上也有一些歌曲可以聽，只是沒像現在那麼多。 忘記是什麼原因聽到楊峻榮的歌，覺得不錯便找了很多他的歌來聽，後來發現他有一張專輯的作曲幾乎都是由童安格包辦，就又去找童安格的歌，到唱片行買了一兩張他的復刻版CD跟精選輯，80年代末《其實你不懂我的心》發行的時候，我媽媽有買錄音帶，至今仍放在家裡。我到家附近的電器行買了一台MP3，把歌曲都放到裡面，出去外面的時候帶在身上聽，到後來電池蓋蓋不緊了，我還拿膠帶貼住繼續用&amp;hellip;   國中時買的mp3   國二時接觸到邰正宵的歌，那時候唱卡拉OK總是《找一個字代替》、《九百九十九朵玫瑰》、《千紙鶴》、《一千零一夜》、《愛歸零》這樣一輪唱下來，也從網拍上買了好幾張他的CD，還有買報紙收集跟他有關的報導，他那年發《藍色貝殼》專輯的時候我還去了辦在台北車站對面K-MALL的簽唱會，要上台簽名合照的時候有點腿軟😂，不過他本人相當有親和力，感覺跟電視上一模一樣。   邰正宵簽唱會合照   接著或許是邰正宵剛出道時有跟張雨生合作多首合唱歌曲(《永遠不回頭》、《烈火青春》&amp;hellip;)的關係，我聽起了張雨生的歌曲，雖然我是女的，但他的歌我還是一堆都唱不上去😆😆😆，除了買了幾張他後期的專輯外，也意外發現當時學校的電腦老師也是他的歌迷，老師還大方把自己收藏的專輯全部借我聽，大概是那時候我開始用PTT，在張雨生的板上遇到了很多志同道合的朋友，後來也跳下去自己開了一個邰正宵的板，當了好一陣子的板主，可惜在多年前看板已經被廢除了。 後來不知道為什麼喜歡上黃安的歌&amp;hellip;其實撇除掉他的立場跟言論，只聽他的歌，他還是有一些歌不錯的，不過我只有買《新鴛鴦蝴蝶夢》那張。時間進入國三，覺得優客李林的歌很好聽，後來也開始聽兩人各自的歌曲，註冊了QQ，認識了好多大陸歌迷，後來因為某些事情打擊到我，我變成開始喜歡聽台語歌，第一個喜歡聽的台語歌手就是蔡小虎，其實在多年前就在電視上看到過《思相枝》的MV，但當下並沒有什麼感覺，高一某天下課發呆時，腦中突然響起那首歌的旋律，放學回到家上網一找來聽就被迷住了～當時買了好多他的CD還有錄音帶，在網拍買了他第一張專輯《往事甭提起》的原聲原影MV錄影帶，Youtube上也有很多他的MV可以看，甚至買了一台應該稱做是MP4相機的機器，除了可以把MV放到裡面看，也可以拍照，最重要的是它可以錄電視！所以那時候一邊看電視，一邊錄了一些蔡小虎上一些八大電視台音樂節目的影片，可惜換過幾次電腦後，所剩的檔案不多，但我後來繼續用那台MP4相機錄了好多年喜歡的歌手上節目的影片，雖然畫質不是很好，至少可以把精彩的片段記錄下來日後自己放著欣賞。   當年買的MP4相機(正面)     當年買的MP4相機(背面)     錄下的節目片段   在2008年蔡小虎發行《愛情爐丹》專輯時，有上幾個電台的通告，其中「中廣寶島網」跟「大樹下電台」的節目我都很幸運的CALL-IN進去，也跟他講到話，雖然狀況有點混亂所以沒講到幾句，但已經是相當大的驚喜了，而且第二次CALL-IN的時候，他居然還記得我😮，後來隨著他發的幾張專輯並沒有讓我留下比較深刻的印象，就比較不常聽他的歌了&amp;hellip;2014年去看三立《超級夜總會》錄影有遠遠看到他本人，似乎是在趕通告，來也匆匆去也匆匆。從2000～2010這幾年我覺得是豪記的黃金時期，好歌不斷，光是我比較熟悉的像從2007年起算的翁立友《我問天》、《迷魂香》、2008年蔡小虎《愛情爐丹》、《不應該愛你》，羅時豐《男人的汗》，翁立友《行棋》、《後一站》&amp;hellip;&amp;hellip;都是經典之作。 高二時無意間在Youtube上看到姚乙演唱的《緣》，就此接觸到了星馬當地的華語歌手，那時候姚乙好像還在南方唱片吧，所以同時開始聽同在南方唱片的秦咏的歌，也覺得《南方群星大拜年》系列的賀歲專輯不管是歌曲還是MV都好熱鬧，在網路上認識了一個大馬的網友，託他幫忙買了好多姚乙的VCD，另外有少數一兩張是我在台灣買到的。過年時把這些VCD帶去親戚家放，消磨時間，長輩也都覺得他的唱功很不錯，詮釋老歌相當到位。   我收藏的姚乙VCD   高三這段期間的記憶有點模糊了，可能都在拼大考，沒有太多心思去聽歌，但我那時候買了五卷羅時豐的國語專輯錄音帶(前陣子轉賣掉了)，好像也有聽陳昇的歌，我在FB上找到我當年傳MV檔案給羅時豐下載的對話&amp;hellip;我完全忘記為什麼那時候我會跟他有互動了😓。
   之前收藏的羅時豐專輯錄音帶   後來覺得林俊彥的歌不錯，本來要買《無人關心我》和《大路英雄》兩張專輯的錄音帶，因為賣家的關係只買到《大路英雄》那張，適逢他加盟振揚唱片發行《溫柔花》專輯，但幾乎是零宣傳&amp;hellip;他好像沒有跑宣傳通告打歌，專輯我也是發行過後一陣子才在唱片行買到，發完這張專輯他又在歌壇消失得無影無蹤，繼續做他的衣服生意去了。 會開始聽陳百潭的歌是因為林俊彥包括第一張專輯主打《無人關心我》在內的幾首歌是陳百潭寫的，讓我覺得有些好奇，在網上了解了一下才知道他是很厲害的創作人，寫出的那首《愛拼才會贏》可說是家喻戶曉，他自己在吉馬唱片也發行了好幾張專輯，我那時候買了光輝傳播發行的一卷原聲原影MV錄影帶、燕涵興業發行的合輯錄影帶(他的歌有4首)，也花錢找代購跟大陸賣家買了另一版的MV專輯，不過檔案我似乎刪了😱，所以我也不確定我在Youtube上放的哪個才是我跟代購買的MV？我聽他歌曲的那年剛好他半復出，在廈門衛視的「超級明日之星」節目當評審。   陳百潭光輝版MV(酒國英雄)     陳百潭燕涵版MV(初戀)   後來聽到了高向鵬的歌，也注意到那個有一陣子總是跟他灌錄男男對唱歌曲的傅振輝，對他的第一印象應該是那首《同心行》當「台灣奇案」主題曲的時候，幾年後某天腦袋裡突然出現一段歌詞和旋律，上網一查才發現是《同心行》，但一直到大學的時候才喜歡上他的歌，之後就是長達近五年的追星歲月&amp;hellip;整個大學時代就只喜歡他的歌曲，偶爾也會聽一些星馬歌手唱的國語歌做調劑。   當時大約其中80%的收藏   2017年時覺得讀書老是沒什麼精神，想組一個快歌的播放清單，但怕聽中文歌會分心，就把目標放在外文歌上，想起了以前曾經聽過韓國歌手任昌丁唱的《請開門》，有個念頭讓我去找了他現場演唱這首歌的影片，找到了늑대와 함께 춤을+바람과 함께 사라지다+請開門三首歌的組曲，都是他快歌中的名曲，後來發現了他的抒情歌曲中也很多很好聽的，而且他是個創作才子，寫了很多歌曲，而且無論是唱歌還是拍電影都拿過獎，在韓國有「全能藝人」的稱號。 之後以為不太會去喜歡上哪個歌手的歌，結果去年中有一陣子天天在Youtube首頁的推薦影片看見「乾瘦的周傳雄現場獻唱《黃昏》引發全場大合唱 哭了」這個影片，某天我終於禁不住好奇點進去看，沒有大合唱也沒有人哭，但我再去找了原版的《黃昏》來聽，就被吸引住了，加入到所謂「剛絲」的陣容當中，開始用微博，也加了幾個周傳雄的QQ群，更在網拍上開始買跟他相關的東西，其中他在發《花花世界》那張專輯時出的週邊撲克牌我拍照放到微博上，居然被他本人轉發了&amp;hellip;那時候看到瘋狂增加的通知量我真有點嚇傻😂。   週邊撲克牌   大概是去年9月多，我找到周傳雄早期還叫小剛時上台視的玫瑰之夜，那個單元是介紹一些中藥材，講著講著到最後要唱首洪榮宏的《我是男子漢》，大家唱起了第一句的抖音，就這句「啊」讓我開始找起李茂山的歌，其實說起他的歌大概7、8年前我就聽過幾首，因為像林俊彥、姚乙唱過《我的眼睛在下雨》，林俊彥唱過《今夜又擱塊落雨》，傅振輝上節目唱過《遲來的愛》，但說真的很不熟悉，所以一開始還不知道從哪裡聽起，只有Youtube上聽到的另外幾首歌《不願放你走》、《春雷》讓我印象特別深刻，後來乾脆就到蝦米音樂上從第一張專輯開始只要有提供試聽的都聽一輪，聽完後再到Youtube找MV，越聽越覺得不得了，是難得國、台語雙聲帶皆表現相當優異的歌手，慢慢的從網路上找歌聽已經不能滿足我了，所以開始買專輯&amp;hellip;但網拍上很少能買到星馬那邊發行的復刻版CD，就只好透過代購直接向唱片公司購買，又輾轉從某間唱片行老闆口中得知有一家唱片行有進星馬的專輯，所以有幾張我是從那邊買到的，後來在台灣發的幾張專輯我就都買台版的了。網路上關於他的資訊也相當多，所以我找資料找得不亦樂乎！很享受那種找到很多資料的成就感。   玫瑰之夜節目上演唱《我是男子漢》     部分收藏     部分收藏   寫了一天終於把這篇文章寫完了，這個部落格的內容預計會將我這麼多年以來喜歡聽的歌手、歌曲做分享，會有專輯和單曲的推薦，如果對歌手本身比較有想法的，我也會寫關於歌手的文章，但是關於唱法、技巧方面的專業術語我一竅不通，所以都會用比較粗淺的詞來表達，並且有些主觀的想法，如果有不盡人意的地方還請多多包涵，也歡迎留言交流討論。</description>
@@ -208,12 +208,12 @@
     
     <item>
       <title>【專輯】李茂山 - 賀新年迎財神</title>
-      <link>http://example.org/post/leemaoshan-1989newyear-album/</link>
+      <link>/post/leemaoshan-1989newyear-album/</link>
       <pubDate>Sun, 27 Jan 2019 19:32:46 +0800</pubDate>
       
-      <guid>http://example.org/post/leemaoshan-1989newyear-album/</guid>
+      <guid>/post/leemaoshan-1989newyear-album/</guid>
       <description>&lt;figure&gt;
-    &lt;img src=&#34;http://example.org/img/000015.jpg&#34;
+    &lt;img src=&#34;/img/000015.jpg&#34;
          alt=&#34;《賀新年迎財神》封面（星馬復刻版/台版）&#34;/&gt; &lt;figcaption&gt;
             &lt;h4&gt;《賀新年迎財神》封面（星馬復刻版/台版）&lt;/h4&gt;
         &lt;/figcaption&gt;
@@ -222,10 +222,10 @@
     
     <item>
       <title>歸檔</title>
-      <link>http://example.org/archives/</link>
+      <link>/archives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/archives/</guid>
+      <guid>/archives/</guid>
       <description></description>
     </item>
     

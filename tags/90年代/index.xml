@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>90年代 on 小賴的聽歌旅程</title>
-    <link>http://example.org/tags/90%E5%B9%B4%E4%BB%A3/</link>
+    <link>/tags/90%E5%B9%B4%E4%BB%A3/</link>
     <description>Recent content in 90年代 on 小賴的聽歌旅程</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
     <lastBuildDate>Tue, 05 Feb 2019 22:00:49 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/90%E5%B9%B4%E4%BB%A3/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/90%E5%B9%B4%E4%BB%A3/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>【單曲】李茂山 - 茶噢</title>
-      <link>http://example.org/post/leemaoshan-dayo-song/</link>
+      <link>/post/leemaoshan-dayo-song/</link>
       <pubDate>Tue, 05 Feb 2019 22:00:49 +0800</pubDate>
       
-      <guid>http://example.org/post/leemaoshan-dayo-song/</guid>
+      <guid>/post/leemaoshan-dayo-song/</guid>
       <description>&lt;p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/qMWp3yltmUM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -31,10 +31,10 @@
     
     <item>
       <title>【單曲】李茂山 - 最後的選擇</title>
-      <link>http://example.org/post/leemaoshan-lastchoice-song/</link>
+      <link>/post/leemaoshan-lastchoice-song/</link>
       <pubDate>Thu, 31 Jan 2019 21:24:00 +0800</pubDate>
       
-      <guid>http://example.org/post/leemaoshan-lastchoice-song/</guid>
+      <guid>/post/leemaoshan-lastchoice-song/</guid>
       <description>&lt;p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/h0Mg7a4U4IM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2000年之後 on 小賴的聽歌旅程</title>
-    <link>http://example.org/tags/2000%E5%B9%B4%E4%B9%8B%E5%BE%8C/</link>
+    <link>/tags/2000%E5%B9%B4%E4%B9%8B%E5%BE%8C/</link>
     <description>Recent content in 2000年之後 on 小賴的聽歌旅程</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
     <lastBuildDate>Wed, 06 Feb 2019 22:15:43 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/2000%E5%B9%B4%E4%B9%8B%E5%BE%8C/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/2000%E5%B9%B4%E4%B9%8B%E5%BE%8C/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>【單曲】蔡小虎 - 吃苦當作吃補</title>
-      <link>http://example.org/post/tigertsai-makes-you-stronger-song/</link>
+      <link>/post/tigertsai-makes-you-stronger-song/</link>
       <pubDate>Wed, 06 Feb 2019 22:15:43 +0800</pubDate>
       
-      <guid>http://example.org/post/tigertsai-makes-you-stronger-song/</guid>
+      <guid>/post/tigertsai-makes-you-stronger-song/</guid>
       <description>&lt;p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/YGSSvMhOGgI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -37,10 +37,10 @@
     
     <item>
       <title>【單曲】阿輪 - 風雨無情</title>
-      <link>http://example.org/post/wind-rain-are-heartless/</link>
+      <link>/post/wind-rain-are-heartless/</link>
       <pubDate>Mon, 04 Feb 2019 21:58:00 +0800</pubDate>
       
-      <guid>http://example.org/post/wind-rain-are-heartless/</guid>
+      <guid>/post/wind-rain-are-heartless/</guid>
       <description>&lt;p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/AzbXaLLhm7Y&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;

@@ -13,6 +13,8 @@ env:
  global:
    - GH_REF: github.com/lovesong99/lovesong99.github.io.git
 
+   sudo: required
+
 git:
   submodules: false
 
@@ -22,7 +24,11 @@ before_install:
 
 install:
 # 安装最新的hugo
-  - go get github.com/gohugoio/hugo 
+  - export HUGO_VERSION=0.54.0
+#  - sudo pip install Pygments
+  - wget https://github.com/gohugoio/hugo/releases/download/v$HUGO_VERSION/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz
+  - tar xzf hugo_${HUGO_VERSION}_Linux-64bit.tar.gz
+  - chmod a+x hugo
 
 script:
 # 运行hugo命令

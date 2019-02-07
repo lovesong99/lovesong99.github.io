@@ -5,6 +5,7 @@
     <meta charset="utf-8">
     {{ .Hugo.Generator }}
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="google-site-verification" content="wSLxwoc2zA36x4vRrmirCr0MeR1luAAvgHhtSvjbyxU" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     {{ if .IsHome -}}
@@ -54,7 +55,6 @@
     </script>
     {{ end }}
 
-    <meta name="google-site-verification" content="wSLxwoc2zA36x4vRrmirCr0MeR1luAAvgHhtSvjbyxU" />
     <!-- custom css -->
     {{ range .Site.Params.customCSS }}
         <link rel="stylesheet" href="{{ "/css/" | relURL }}{{ . }}">

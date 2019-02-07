@@ -1,0 +1,26 @@
+baseURL = "http://example.org/"
+languageCode = "zh-TW"
+title = "小賴的聽歌旅程"
+theme = "maupassant"
+
+[author]
+  name = "小賴"
+
+[params]
+  author = "小賴"
+  subtitle = "對音樂相關的專業領域是門外漢，單純推薦喜歡的歌曲，寫寫聽歌時的感受"
+  keywords = "歌曲推薦,歌手推薦,專輯推薦,台語歌,國語歌,80年代老歌,90年代老歌"
+  description = "推薦喜歡的歌手、專輯和歌曲"
+  busuanzi = true
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "起點"
+    url = "/about/"
+    weight = 2
+  [[menu.main]]
+    identifier = "archives"
+    name = "歸檔"
+    url = "/archives/"
+    weight = 3

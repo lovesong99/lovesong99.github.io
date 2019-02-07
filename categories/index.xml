@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 小賴的聽歌旅程</title>
-    <link>/categories/</link>
+    <link>https://lovesong99.github.io/categories/</link>
     <description>Recent content in Categories on 小賴的聽歌旅程</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lovesong99.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>單曲推薦</title>
-      <link>/categories/%E5%96%AE%E6%9B%B2%E6%8E%A8%E8%96%A6/</link>
+      <link>https://lovesong99.github.io/categories/%E5%96%AE%E6%9B%B2%E6%8E%A8%E8%96%A6/</link>
       <pubDate>Wed, 06 Feb 2019 22:15:43 +0800</pubDate>
       
-      <guid>/categories/%E5%96%AE%E6%9B%B2%E6%8E%A8%E8%96%A6/</guid>
+      <guid>https://lovesong99.github.io/categories/%E5%96%AE%E6%9B%B2%E6%8E%A8%E8%96%A6/</guid>
       <description></description>
     </item>
     
     <item>
       <title>專輯推薦</title>
-      <link>/categories/%E5%B0%88%E8%BC%AF%E6%8E%A8%E8%96%A6/</link>
+      <link>https://lovesong99.github.io/categories/%E5%B0%88%E8%BC%AF%E6%8E%A8%E8%96%A6/</link>
       <pubDate>Sun, 27 Jan 2019 19:32:46 +0800</pubDate>
       
-      <guid>/categories/%E5%B0%88%E8%BC%AF%E6%8E%A8%E8%96%A6/</guid>
+      <guid>https://lovesong99.github.io/categories/%E5%B0%88%E8%BC%AF%E6%8E%A8%E8%96%A6/</guid>
       <description></description>
     </item>
     
     <item>
       <title>歌手總論</title>
-      <link>/categories/%E6%AD%8C%E6%89%8B%E7%B8%BD%E8%AB%96/</link>
+      <link>https://lovesong99.github.io/categories/%E6%AD%8C%E6%89%8B%E7%B8%BD%E8%AB%96/</link>
       <pubDate>Mon, 28 Jan 2019 19:51:41 +0800</pubDate>
       
-      <guid>/categories/%E6%AD%8C%E6%89%8B%E7%B8%BD%E8%AB%96/</guid>
+      <guid>https://lovesong99.github.io/categories/%E6%AD%8C%E6%89%8B%E7%B8%BD%E8%AB%96/</guid>
       <description></description>
     </item>
     

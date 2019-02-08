@@ -2,6 +2,8 @@ baseURL = "https://lovesong99.github.io/"
 languageCode = "zh-TW"
 title = "小賴的聽歌旅程"
 theme = "maupassant"
+googleAnalytics = "UA-40443654-4"
+disqusShortname = "lovesong99"
 
 [author]
   name = "小賴"

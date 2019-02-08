@@ -12,12 +12,14 @@
                         <header>
                             <h1 class="post-title">{{ .Title }}</h1>
                         </header>
+                        <i class="far fa-calendar-alt" aria-hidden="true"></i>
                         <date class="post-meta meta-date">
                             {{ .Date.Year }}年{{ printf "%d" .Date.Month }}月{{ .Date.Day }}日
                         </date>
                         {{ with .Params.Categories }}
                         <div class="post-meta">
                             <span>|</span>
+                            <i class="far fa-folder" aria-hidden="true"></i>
                             {{ range . }}
                                 <span class="meta-category"><a href="{{ "/categories/" | absLangURL }}{{ . | urlize }}">{{ . }}</a></span>
                             {{ end }}
@@ -25,7 +27,7 @@
                         {{ end }}
                         {{ if .Site.Params.busuanzi }}
                         <div class="post-meta">
-                            <span id="busuanzi_container_page_pv">| <span id="busuanzi_value_page_pv"></span><span> 閱讀</span></span>
+                            <span id="busuanzi_container_page_pv">| <i class="far fa-eye" aria-hidden="true"></i> <span id="busuanzi_value_page_pv"></span><span> 閱讀</span></span>
                         </div>
                         {{ end }}
                         <div class="post-content">

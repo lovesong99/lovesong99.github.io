@@ -24,14 +24,14 @@ categories: ["專輯推薦"]
 
 ## 專輯曲目
 
-1. 無言的結局（李茂山、林淑容合唱）
+1. [無言的結局（李茂山、林淑容合唱）]({{< relref "leemaoshan-annalin-noending-song.md" >}})
 2. 想起往事
 3. 愛情的力量
 4. 忘掉吧
 5. 我怎麼哭了
 6. 逃避的眼光
 7. 女孩：妳是我的愛
-8. 歌聲淚影
+8. [歌聲淚影]({{< relref "leemaoshan-geshengleiying-song.md" >}})
 9. 別傷我心
 10. 分手（李茂山、林淑容合唱）
 11. 深深的愛

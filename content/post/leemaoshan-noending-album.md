@@ -30,7 +30,7 @@ categories: ["專輯推薦"]
 4. 忘掉吧
 5. 我怎麼哭了
 6. 逃避的眼光
-7. 女孩：妳是我的愛
+7. [女孩：妳是我的愛]({{< relref "leemaoshan-girlpleasegivemelove-song.md" >}})
 8. [歌聲淚影]({{< relref "leemaoshan-geshengleiying-song.md" >}})
 9. 別傷我心
 10. 分手（李茂山、林淑容合唱）

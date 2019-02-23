@@ -4,6 +4,7 @@ title = "小賴的聽歌旅程"
 theme = "maupassant"
 googleAnalytics = "UA-40443654-4"
 disqusShortname = "lovesong99"
+footnoteReturnLinkContents = "↩"
 
 [author]
   name = "小賴"

@@ -22,9 +22,9 @@
     </div>
     {{end}}
 
-    {{ if not .Page.Lastmod.IsZero }}
+    {{ if not .Lastmod.IsZero }}
     <div class="date">
-        <i class='fa fa-calendar'></i> {{T "本頁面最後異動日期："}} {{ .Page.Lastmod.Format "2006／02／01" }}
+        <i class='fa fa-calendar'></i> {{T "last-update-on"}} {{ .Page.Lastmod.Format "2006／01／02" }}
     </div>
     {{end}}
 

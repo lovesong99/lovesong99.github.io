@@ -1,22 +1,39 @@
-{{ partial "head" . }}
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+    {{if .Site.Params.themeStyle}}
+      {{ partial (printf "%s/head.html" .Site.Params.themeStyle) . }}
+    {{else}}
+      {{ partial "flex/head.html" . }}
+    {{end}}
+  </head>
+  <body data-url="{{ .RelPermalink }}">
+    {{if .Site.Params.themeStyle}}
+      {{ partial (printf "%s/body-beforecontent.html" .Site.Params.themeStyle) . }}
+    {{else}}
+      {{ partial "flex/body-beforecontent.html" . }}
+    {{end}}
+    
+	<h1>{{T "title-404"}}</h1>
+	<p>
+	</p>
+	<p>{{T "message-404"}}</p>
+	<p></p>
+	<p><a href="{{.Site.BaseURL}}">{{T "Go-to-homepage"}}</a></p>
+	<p><img src="{{"images/gopher-404.jpg" | relURL}}" style="width:50%"></img></p>    
+    
+    {{if .Site.Params.themeStyle}}
+      {{ partial (printf "%s/body-aftercontent.html" .Site.Params.themeStyle) . }}
+    {{else}}
+      {{ partial "flex/body-aftercontent.html" . }}
+    {{ end }}
 
-<body>
-{{ partial "header" . }}
-<div class="body404">
-    <div class="info404">
-        <header id="header404" class="clearfix">
-            <div class="site-name404"><i>404</i></div>
-        </header>
-        <section>
-            <div class="title404">
-                <p>每一個平凡的日常<br/>都是連續發生中的奇蹟</p>
-            </div>
-            {{ partial "related" . }}
-            <a rel="nofollow" href="{{ .Site.BaseURL }}" class="index404">回首頁</a>
-        </section>
-    </div>
-</div>
-{{ partial "footer" . }}
+    {{ block "footer" . }}
+    {{ end }}
 
-</body>
+    {{ partial "custom-footer.html" . }}
+  </body>
 </html>
+
+

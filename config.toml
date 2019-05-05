@@ -1,29 +1,69 @@
-baseURL = "https://lovesong99.github.io/"
-languageCode = "zh-TW"
-title = "小賴的聽歌旅程"
-theme = "maupassant"
-googleAnalytics = "UA-40443654-4"
-disqusShortname = "lovesong99"
-footnoteReturnLinkContents = "↩"
+baseURL = "/"
 
-[author]
-  name = "小賴"
+languageCode = "zh-TW"
+DefaultContentLanguage = "zh"
+title = "戀戀「山」歌－李茂山非官方歌迷網站"
+theme = "docdock"
+# themesdir = "../.."
+pygmentsCodeFences = true
+pygmentsStyle = "monokailight"
+footnoteReturnLinkContents = "↩"
+summary_length = 200
+
+defaultContentLanguage = "zh"
+defaultContentLanguageInSubdir= false
+enableMissingTranslationPlaceholders = false
+
+
+# [Languages]
+# [Languages.en]
+# title = "Documentation for Hugo docDock"
+# weight = 1
+# languageName = "English"
+# 
+# [Languages.fr]
+# title = "Documentation du thème docDock"
+# weight = 2
+# languageName = "Français"
+
+
+
 
 [params]
-  author = "小賴"
-  subtitle = "對音樂相關的專業領域是門外漢，單純推薦喜歡的歌曲，寫寫聽歌時的感受"
-  keywords = "歌曲推薦,歌手推薦,專輯推薦,台語歌,國語歌,80年代老歌,90年代老歌"
-  description = "推薦喜歡的歌手、專輯和歌曲"
-  busuanzi = true
+# editURL = "https://github.com/vjeantet/hugo-theme-docdock/edit/master/exampleSite/content/"
+showVisitedLinks = true # default is false
+themeStyle = "flex" # "original" or "flex" # default "flex"
+themeVariant = "" # choose theme variant "green", "gold" , "gray", "blue" (default)
+ordersectionsby = "weight" # ordersectionsby = "title"
+disableHomeIcon = false # default is false
+disableSearch = false # default is false
+disableNavChevron = false # set true to hide next/prev chevron, default is false
+highlightClientSide = false # set true to use highlight.pack.js instead of the default hugo chroma highlighter
+menushortcutsnewtab = true # set true to open shortcuts links to a new tab/window
+enableGitInfo = false
 
-[menu]
-  [[menu.main]]
-    identifier = "about"
-    name = "起點"
-    url = "/about/"
-    weight = 2
-  [[menu.main]]
-    identifier = "archives"
-    name = "歸檔"
-    url = "/archives/"
-    weight = 3
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+
+ [[menu.shortcuts]]
+name = "<i class='fa fa-shopping-cart'></i> <label>瑞華唱片官方Lazada商城（星馬地區）</label>"
+url = "https://www.lazada.com.my/shop/suwah-music/"
+weight = 10
+
+[[menu.shortcuts]]
+name = "<i class='fa fa-facebook-official'></i> <label>瑞華唱片Facebook</label>"
+url = "https://www.facebook.com/SuwahMusic/"
+weight = 20
+
+[[menu.shortcuts]]
+name = "<i class='fa fa-bullhorn'></i> <label>光美唱片官方網站</label>"
+url = "http://www.kuangmei.com.tw/"
+weight = 30
+
+# [[menu.shortcuts]]
+# name = "<i class='fa fa-bookmark'></i> <label>Hugo Documentation</label>"
+# identifier = "hugodoc"
+# url = "https://gohugo.io/"
+# weight = 20
+

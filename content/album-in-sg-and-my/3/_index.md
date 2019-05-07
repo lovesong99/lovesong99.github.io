@@ -1,7 +1,7 @@
 +++
 title = "無言的結局"
 description = ""
-lastmod = 2019-05-06
+lastmod = 2019-05-07
 weight = 3
 +++
 
@@ -47,11 +47,11 @@ weight = 3
 * {{< target-blank title="林淑容為李茂山跨刀" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19860207-1.2.45.2.5" >}}，新加坡聯合晚報，1986年02月07日
 * {{< target-blank title="李茂山工廠打歌" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19860311-1.2.31.8.1" >}}，新加坡聯合晚報，1986年03月11日
 * {{< target-blank title="一切從\"禮貌\"開始 李茂山林秀明喜結\"電視情\"" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19860320-1.2.21.14" >}}，新加坡聯合晚報，1986年03月20日
-* {{< target-blank title="宣傳廣告" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19860320-1.2.22.5" >}}，新加坡聯合晚報，1986年03月20日
-* {{< target-blank title="宣傳廣告" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19860325-1.2.28.1" >}}，新加坡聯合晚報，1986年03月25日
+* {{< target-blank title="《無言的結局》專輯宣傳廣告" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19860320-1.2.22.5" >}}，新加坡聯合晚報，1986年03月20日
+* {{< target-blank title="《無言的結局》專輯宣傳廣告" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19860325-1.2.28.1" >}}，新加坡聯合晚報，1986年03月25日
 * {{< target-blank title="李茂山熱愛歌唱 對自己要求嚴格" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19860328-1.2.50.1.3" >}}，新加坡聯合早報，1986年03月28日
 * {{< target-blank title="雙旦一生齊獻藝 報業中心歡笑多 李茂山、比莉、林慧萍上《週末3點》" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19860401-1.2.28.1.1" >}}，新加坡聯合早報，1986年04月01日
-* {{< target-blank title="專輯介紹" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19860404-1.2.31.10.1" >}}，新加坡聯合晚報，1986年04月04日
+* {{< target-blank title="《無言的結局》專輯介紹" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19860404-1.2.31.10.1" >}}，新加坡聯合晚報，1986年04月04日
 * {{< target-blank title="李茂山定下兩大目標：提升唱片格調 進軍香港市場" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19860708-1.2.31.1.2" >}}，新加坡聯合早報，1986年07月08日
 * {{< target-blank title="恭喜發財啊，老闆──虎年唱片贏家" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19870202-1.2.24" >}}，新加坡聯合晚報，1987年02月02日
 * {{< target-blank title="《繽紛》排行榜戶外收集觀眾意見" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19870219-1.2.27.10" >}}，新加坡聯合晚報，1987年02月19日

@@ -51,5 +51,5 @@ weight = 5
 * {{< target-blank title="不要《遲來的愛》 李茂山教你秘訣" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19870114-1.2.35.3.1" >}}，新加坡聯合早報，1987年01月14日
 * {{< target-blank title="李茂山小時候外號\"李大頭\"" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19870116-1.2.28.2" >}}，新加坡聯合晚報，1987年01月16日
 * {{< target-blank title="一個妹妹一個情妹 李茂山身邊有兩個女人" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19870117-1.2.27.1" >}}，新加坡聯合晚報，1987年01月17日
-* {{< target-blank title="宣傳廣告" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19870205-1.2.22.1" >}}，新加坡聯合晚報，1987年02月05日
+* {{< target-blank title="《遲來的愛》專輯宣傳廣告" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19870205-1.2.22.1" >}}，新加坡聯合晚報，1987年02月05日
 

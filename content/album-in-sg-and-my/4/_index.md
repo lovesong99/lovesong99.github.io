@@ -1,7 +1,7 @@
 +++
 title = "弦歌戀曲 第一輯"
 description = ""
-lastmod = 2019-05-06
+lastmod = 2019-05-07
 weight = 4
 +++
 
@@ -46,5 +46,5 @@ weight = 4
 
 ## 相關報導
 * {{< target-blank title="唱片33" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19860815-1.2.37.2.4" >}}，新加坡聯合晚報，1986年08月15日
-* {{< target-blank title="宣傳廣告" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19860925-1.2.26.2" >}}，新加坡聯合晚報，1986年09月25日
-* {{< target-blank title="宣傳廣告" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19861002-1.2.32.3" >}}，新加坡聯合晚報，1986年10月02日
+* {{< target-blank title="《弦歌戀曲 第一輯》專輯宣傳廣告" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19860925-1.2.26.2" >}}，新加坡聯合晚報，1986年09月25日
+* {{< target-blank title="《弦歌戀曲 第一輯》專輯宣傳廣告" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19861002-1.2.32.3" >}}，新加坡聯合晚報，1986年10月02日

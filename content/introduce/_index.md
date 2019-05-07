@@ -64,7 +64,7 @@ weight = 10
 
 
 
-[^1]:{{< target-blank title="李茂山明天28歲" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19880410-1.2.36.1.3.1" >}}，新加坡聯合晚報，1986年08月08日
+[^1]:{{< target-blank title="李茂山明天28歲" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19880410-1.2.36.1.3.1" >}}，新加坡聯合晚報，1988年04月10日
 [^2]:{{< target-blank title="父親眼中的叛徒 李茂山手記①" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19860327-1.2.28.1" >}}，新加坡聯合晚報，1986年03月27日
 [^3]:{{< target-blank title="好男要當兵 李茂山手記②" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19860328-1.2.35.8" >}}，新加坡聯合晚報，1986年03月28日
 [^4]:"剛畢業時，因為一時興之所致就報名參加鳳凰歌廳舉辦的歌唱比賽，從而得到男生組第一名，就這樣開始他的歌唱生涯"，李茂山是台灣「出口」的明星 而不是新加坡「進口」歌手！，跳跳，P.69

@@ -47,5 +47,5 @@ weight = 1
 * {{< target-blank title="李茂山的第一次" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19850506-1.2.39.12.1" >}}，新加坡聯合晚報，1985年05月06日
 * {{< target-blank title="本週唱片大觀" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19850510-1.2.40.6.1" >}}，新加坡聯合晚報，1985年05月10日
 * {{< target-blank title="挑戰者！軍中偶像李茂山" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19850512-1.2.29.11" >}}，新加坡聯合晚報，1985年05月12日
-* {{< target-blank title="宣傳廣告" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19850516-1.2.30.3" >}}，新加坡聯合晚報，1985年05月16日
+* {{< target-blank title="專輯宣傳廣告" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19850516-1.2.30.3" >}}，新加坡聯合晚報，1985年05月16日
 * {{< target-blank title="李茂山歌唱技巧比一般新人強" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19850524-1.2.80.1.3" >}}，新加坡聯合早報，1985年05月24日

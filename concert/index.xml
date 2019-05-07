@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>演唱會 on 戀戀「山」歌－李茂山非官方歌迷網站</title>
-    <link>/concert/</link>
+    <link>https://lovesong99.github.io/concert/</link>
     <description>Recent content in 演唱會 on 戀戀「山」歌－李茂山非官方歌迷網站</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
     <lastBuildDate>Tue, 07 May 2019 00:00:00 +0800</lastBuildDate>
     
-	<atom:link href="/concert/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lovesong99.github.io/concert/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

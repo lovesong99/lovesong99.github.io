@@ -1,6 +1,6 @@
 +++
 title = "其他演藝活動"
-description = ""
+description = "李茂山所參與過的商業廣告及短劇演出相關資料"
 lastmod = 2019-05-06
 weight = 70
 +++

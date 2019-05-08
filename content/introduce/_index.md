@@ -1,6 +1,6 @@
 +++
 title = "詳細介紹"
-description = ""
+description = "關於李茂山的詳細介紹"
 lastmod = 2019-05-06
 weight = 10
 +++

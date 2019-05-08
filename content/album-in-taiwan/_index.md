@@ -1,6 +1,6 @@
 +++
 title = "台版專輯"
-description = ""
+description = "李茂山歷年來在台灣所發行的個人專輯列表"
 lastmod = 2019-05-06
 weight = 20
 +++

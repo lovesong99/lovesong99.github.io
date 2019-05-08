@@ -1,6 +1,6 @@
 +++
 title = "遲來的愛"
-description = ""
+description = "李茂山1987年1月在星馬由瑞華唱片發行的國語專輯《遲來的愛》的相關資料"
 lastmod = 2019-05-06
 weight = 5
 +++

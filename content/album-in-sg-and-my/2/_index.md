@@ -1,6 +1,6 @@
 +++
 title = "善意的謊言"
-description = ""
+description = "李茂山1985年10月在星馬由瑞華唱片發行的第二張專輯《善意的謊言》的相關資料"
 lastmod = 2019-05-06
 weight = 2
 +++

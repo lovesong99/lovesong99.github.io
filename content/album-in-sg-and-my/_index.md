@@ -1,6 +1,6 @@
 +++
 title = "星馬版專輯"
-description = ""
+description = "李茂山歷年來在星馬發行的個人專輯列表"
 lastmod = 2019-05-06
 weight = 30
 +++

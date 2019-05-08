@@ -1,6 +1,6 @@
 +++
 title = "無言的結局"
-description = ""
+description = "李茂山1986年3月在星馬由瑞華唱片發行的第三張專輯《無言的結局》的相關資料"
 lastmod = 2019-05-07
 weight = 3
 +++

@@ -1,6 +1,6 @@
 +++
 title = "原人VCD/DVD"
-description = ""
+description = "李茂山所發行過的原聲原影VCD及DVD列表"
 lastmod = 2019-05-06
 weight = 50
 +++

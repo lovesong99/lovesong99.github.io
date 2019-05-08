@@ -1,6 +1,6 @@
 +++
 title = "迎向未來"
-description = ""
+description = "李茂山及林淑容1987年9月在星馬由瑞華唱片發行的國語專輯《迎向未來》的相關資料"
 lastmod = 2019-05-07
 weight = 7
 +++

@@ -1,6 +1,6 @@
 +++
 title = "首頁"
-description = ""
+description = "本站旨在將李茂山的歌唱、演藝方面相關資料做整理以供查詢、參閱"
 lastmod = 2019-05-07
 +++
 

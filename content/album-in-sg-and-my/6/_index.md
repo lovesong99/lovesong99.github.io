@@ -1,6 +1,6 @@
 +++
 title = "生日快樂"
-description = ""
+description = "李茂山1987年7月在星馬由瑞華唱片發行的國語專輯《生日快樂》的相關資料"
 lastmod = 2019-05-06
 weight = 6
 +++

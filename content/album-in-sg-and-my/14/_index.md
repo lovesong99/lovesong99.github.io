@@ -1,6 +1,6 @@
 +++
 title = "我的眼睛在下雨"
-description = ""
+description = "李茂山1989年5月在星馬由瑞華唱片發行的國語專輯《我的眼睛在下雨》的相關資料"
 lastmod = 2019-05-06
 weight = 14
 +++

@@ -1,6 +1,6 @@
 +++
 title = "今夜又擱為你醉"
-description = ""
+description = "李茂山1994年在星馬由瑞華唱片發行的台語專輯《今夜又擱為你醉》的相關資料"
 lastmod = 2019-05-06
 weight = 23
 +++

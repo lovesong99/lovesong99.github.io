@@ -1,6 +1,6 @@
 +++
 title = "弦歌戀曲 第二輯"
-description = ""
+description = "李茂山1987年在星馬由瑞華唱片發行的第二張國語老歌專輯《弦歌戀曲 第二輯》的相關資料"
 lastmod = 2019-05-06
 weight = 8
 +++

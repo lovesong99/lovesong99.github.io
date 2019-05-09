@@ -1,6 +1,6 @@
 +++
 title = "福建歌輯1"
-description = ""
+description = "李茂山1988年在星馬由瑞華唱片發行的台語專輯《福建歌輯1》的相關資料"
 lastmod = 2019-05-06
 weight = 9
 +++

@@ -1,6 +1,6 @@
 +++
 title = "來迎幸福年"
-description = ""
+description = "李茂山1992年在星馬由瑞華唱片發行的第二張個人新年專輯《來迎幸福年》的相關資料"
 lastmod = 2019-05-06
 weight = 21
 +++

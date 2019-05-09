@@ -1,6 +1,6 @@
 +++
 title = "說什麼都是多餘"
-description = ""
+description = "李茂山1988年6月在星馬由瑞華唱片發行的國語專輯《說什麼都是多餘》的相關資料"
 lastmod = 2019-05-06
 weight = 10
 +++

@@ -1,6 +1,6 @@
 +++
 title = "再起東山"
-description = ""
+description = "李茂山1998年9月在台灣由金瓜石唱片發行的台語專輯《再起東山》的相關資料"
 lastmod = 2019-05-06
 weight = 22
 +++

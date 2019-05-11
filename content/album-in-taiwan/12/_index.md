@@ -1,6 +1,6 @@
 +++
 title = "影視劇主題曲"
-description = ""
+description = "李茂山1990年在台灣由飛翔唱片發行的國語翻唱專輯《影視劇主題曲》的相關資料"
 lastmod = 2019-05-06
 weight = 12
 +++

@@ -1,6 +1,6 @@
 +++
 title = "輕輕呼喚你"
-description = ""
+description = "李茂山2000年8月在星馬由瑞華唱片發行的國語老歌專輯《輕輕呼喚你》的相關資料"
 lastmod = 2019-05-06
 weight = 25
 +++

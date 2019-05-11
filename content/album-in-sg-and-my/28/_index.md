@@ -1,6 +1,6 @@
 +++
 title = "媽媽感謝你"
-description = ""
+description = "李茂山2013年5月在星馬由瑞華唱片發行的個人創作EP《媽媽感謝你》（CD+DVD）的相關資料"
 lastmod = 2019-05-06
 weight = 28
 +++

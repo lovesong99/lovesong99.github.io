@@ -1,6 +1,6 @@
 +++
 title = "賀新年迎財神"
-description = ""
+description = "李茂山1992年在台灣由光美唱片發行的新年專輯《賀新年迎財神》的相關資料"
 lastmod = 2019-05-06
 weight = 18
 +++

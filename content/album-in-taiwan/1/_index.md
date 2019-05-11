@@ -1,6 +1,6 @@
 +++
 title = "給我 再一次看著我"
-description = ""
+description = "李茂山1985年7月在台灣由光美唱片發行的國語專輯《給我 再一次看著我》的相關資料"
 lastmod = 2019-05-06
 weight = 1
 +++

@@ -1,6 +1,6 @@
 +++
 title = "陳年金曲 百年老歌"
-description = ""
+description = "李茂山1990年在台灣由飛翔唱片發行的國語老歌專輯《陳年金曲 百年老歌》的相關資料"
 lastmod = 2019-05-06
 weight = 11
 +++

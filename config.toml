@@ -4,6 +4,7 @@ languageCode = "zh-TW"
 DefaultContentLanguage = "zh"
 title = "戀戀「山」歌－李茂山非官方歌迷網站"
 theme = "docdock"
+googleAnalytics = "UA-40443654-4"
 # themesdir = "../.."
 pygmentsCodeFences = true
 pygmentsStyle = "monokailight"

@@ -1,6 +1,6 @@
 +++
 title = "2015"
-description = "2015年的新聞報導列表"
+description = "2015年的報導列表"
 lastmod = 2019-05-11
 weight = 2015
 +++

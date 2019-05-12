@@ -1,7 +1,7 @@
 +++
 title = "1988"
-description = "1988年的新聞報導列表"
-lastmod = 2019-05-07
+description = "1988年的報導列表"
+lastmod = 2019-05-12
 weight = 1988
 +++
 
@@ -13,6 +13,8 @@ table th:nth-of-type(3), th:nth-of-type(4) {
 	width: 150px;
 }
 </style>
+
+{{%alert%}}中央日報相關資料只有報導配圖{{%/alert%}}
 
 標題  | 報導媒體  | 日期 | 地區
 --------------|-------|------|------ 
@@ -41,16 +43,19 @@ table th:nth-of-type(3), th:nth-of-type(4) {
 {{< target-blank title="林淑容李茂山將呈獻《閃耀繽紛麗都夜》" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19880724-1.2.18.10" >}} | 聯合晚報 | 1988年07月24日 |  新加坡
 {{< target-blank title="麗都皇宮廣告" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19880726-1.2.27.1" >}} | 聯合早報 | 1988年07月26日 |  新加坡
 {{< target-blank title="手錶鑲鑽石‧住豪華公寓 李茂山今年大豐收" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19880730-1.2.30.8" >}} | 聯合晚報 | 1988年07月30日 |  新加坡
+{{< target-blank title="新歌試片" url="https://blog.xuite.net/jhqq98/twblog/325262904-%E3%80%8C%E6%96%B0%E6%AD%8C%E8%A9%A6%E7%89%87%E3%80%8D1347%E3%80%881988%E5%B9%B4%E3%80%89" >}} | TTV電視周刊1347期 | 1988年07月31日 |  台灣
 {{< target-blank title="麗都皇宮廣告" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19880801-1.2.44.2" >}} | 聯合早報 | 1988年08月01日 |  新加坡
 {{< target-blank title="《歡樂繽紛》節目表" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19880801-1.2.28.6.1.5" >}} | 聯合晚報 | 1988年08月01日 |  新加坡
 {{< target-blank title="歌星吹起\"自然風\"" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19880803-1.2.55.3.1" >}} | 聯合早報 | 1988年08月03日 |  新加坡
 {{< target-blank title="李茂山羅時豐 \"情敵\"見面份外高興 視林淑容為最佳戀人" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19880808-1.2.78.1.1" >}} | 聯合早報 | 1988年08月08日 |  新加坡
 {{< target-blank title="瑞華唱片專輯宣傳廣告" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19880915-1.2.23.1" >}} | 聯合晚報 | 1988年09月15日 |  新加坡
 {{< target-blank title="李茂山林淑容 推出兩個新專集" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19881019-1.2.14.2" >}} | 聯合晚報 | 1988年10月19日 |  新加坡
+{{< target-blank title="李茂山期望國內歌星能發揮團結精神" url="http://nrch.culture.tw/view.aspx?keyword=%E6%9D%8E%E8%8C%82%E5%B1%B1&s=2280351&id=0000780135&proj=MOC_IMD_001" >}} | 中央日報 | 1988年10月26日 |  台灣
 {{< target-blank title="李茂山‧林美惠 週內將由台來新" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19881030-1.2.30.2" >}} | 聯合晚報 | 1988年10月30日 |  新加坡
 {{< target-blank title="《歡樂繽紛》節目表" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19881031-1.2.28.10" >}} | 聯合晚報 | 1988年10月31日 |  新加坡
 {{< target-blank title="藝人公會25週年演出 受邀參加藝人近40位 台灣紅星李茂山為特別嘉賓" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19881102-1.2.23.1" >}} | 聯合晚報 | 1988年11月02日 |  新加坡
 {{< target-blank title="'金鐘獎'取消最佳歌手獎 李茂山好夢成空" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19881104-1.2.40.7" >}} | 聯合晚報 | 1988年11月04日 |  新加坡
 {{< target-blank title="藝人公會呼籲廣播局藝人加入" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19881106-1.2.26.13" >}} | 聯合晚報 | 1988年11月06日 |  新加坡
 {{< target-blank title="歌星中的\"暴發戶\"" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19881109-1.2.52.1.1" >}} | 聯合早報 | 1988年11月09日 |  新加坡
+{{< target-blank title="流行線上" url="https://blog.xuite.net/jhqq98/twblog/325900598-%E3%80%8C%E6%B5%81%E8%A1%8C%E7%B7%9A%E4%B8%8A%E3%80%8DF890%E3%80%881988%E5%B9%B4%E3%80%89" >}} | 華視綜合週刊890期 | 1988年11月13日 |  台灣
 {{< target-blank title="無標題" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19881225-1.2.56" >}} | 聯合早報 | 1988年12月25日 |  新加坡

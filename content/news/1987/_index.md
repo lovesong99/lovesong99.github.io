@@ -1,6 +1,6 @@
 +++
 title = "1987"
-description = "1987年的新聞報導列表"
+description = "1987年的報導列表"
 lastmod = 2019-05-07
 weight = 1987
 +++
@@ -13,6 +13,8 @@ table th:nth-of-type(3), th:nth-of-type(4) {
 	width: 150px;
 }
 </style>
+
+{{%alert%}}中央日報相關資料只有報導配圖{{%/alert%}}
 
 標題  | 報導媒體  | 日期 | 地區
 --------------|-------|------|------ 
@@ -41,6 +43,7 @@ table th:nth-of-type(3), th:nth-of-type(4) {
 {{< target-blank title="《繽紛83》節目表" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19870218-1.2.24.7.1.4" >}} | 聯合晚報 | 1987年02月18日 |  新加坡
 {{< target-blank title="《繽紛》排行榜戶外收集觀眾意見" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19870219-1.2.27.10" >}} | 聯合晚報 | 1987年02月19日 |  新加坡
 {{< target-blank title="《週末3點》70回報業中心禮堂舉行 歌迷、讀者大聯歡" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19870308-1.2.40.5" >}} | 聯合早報 | 1987年03月08日 |  新加坡
+{{< target-blank title="李茂山是光美大力培植的新秀" url="http://nrch.culture.tw/view.aspx?keyword=%E6%9D%8E%E8%8C%82%E5%B1%B1&s=2280349&id=0000780133&proj=MOC_IMD_001" >}} | 中央日報 | 1987年05月22日 |  台灣
 {{< target-blank title="李茂山可能在本地開義唱會" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19870605-1.2.35.7" >}} | 聯合晚報 | 1987年06月05日 |  新加坡
 {{< target-blank title="劉明瑞安排李茂山7月\"生日\"" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19870627-1.2.28.11" >}} | 聯合晚報 | 1987年06月27日 |  新加坡
 {{< target-blank title="\"生日快樂！\" 李茂山祝福曾經深愛的人" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19870629-1.2.38.2.2" >}} | 聯合早報 | 1987年06月29日 |  新加坡

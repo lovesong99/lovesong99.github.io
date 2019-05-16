@@ -9,7 +9,8 @@ googleAnalytics = "UA-40443654-4"
 pygmentsCodeFences = true
 pygmentsStyle = "monokailight"
 footnoteReturnLinkContents = "↩"
-summary_length = 200
+hasCJKLanguage = true
+summaryLength = 150
 
 defaultContentLanguage = "zh"
 defaultContentLanguageInSubdir= false

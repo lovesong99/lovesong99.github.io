@@ -16,7 +16,7 @@ table th:nth-of-type(5) {
 	width: 240px;
 }
 table th:nth-of-type(2) {
-	width: 270px;
+	width: 200px;
 }
 
 </style>

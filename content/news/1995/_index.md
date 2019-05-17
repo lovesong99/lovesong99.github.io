@@ -1,7 +1,7 @@
 +++
 title = "1995"
 description = "1995年的報導列表"
-lastmod = 2019-05-12
+lastmod = 2019-05-17
 weight = 1995
 +++
 
@@ -18,6 +18,7 @@ table th:nth-of-type(3), th:nth-of-type(4) {
 
 標題  | 報導媒體  | 日期 | 地區
 --------------|-------|------|------ 
+金童玉女 下月交戰 何來時間結連理？ | 民生報 | 1995年04月15日 |  台灣
 {{< target-blank title="李茂山與戈偉如合照" url="http://catalog.digitalarchives.tw/item/00/5b/bc/7e.html" >}} | 中國時報 | 1995年08月03日 |  台灣
 {{< target-blank title="李茂山獨照" url="http://catalog.digitalarchives.tw/item/00/5b/bc/85.html" >}} | 中國時報 | 1995年08月03日 |  台灣
 {{< target-blank title="華視新節目「天天歡喜」主持人李茂山、戈偉如及華視總經理張家驤合照" url="http://nrch.culture.tw/view.aspx?keyword=%E6%9D%8E%E8%8C%82%E5%B1%B1&s=2389261&id=0000732556&proj=MOC_IMD_001" >}} | 中央日報 | 1995年08月04日 |  台灣

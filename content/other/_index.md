@@ -1,7 +1,7 @@
 +++
 title = "其他演藝活動"
 description = "李茂山所參與過的商業廣告、短劇演出、電視節目、活動演出相關資料"
-lastmod = 2019-05-12
+lastmod = 2019-05-17
 weight = 70
 +++
 
@@ -56,9 +56,9 @@ table th:nth-of-type(2) {
 *  王牌豬哥秀（八大）
     *  {{< target-blank title="演唱《愛你無條件》、訪談、《今夜又擱塊落雨》+《針線情》+《只有孤單陪伴我》組曲（1998年）" url="https://youtu.be/nlMwrKDdyoM?t=1501" >}}
 *  勁歌金曲（華視）
-    *  {{< target-blank title="與董浩、曾媛、于培合唱《奉獻》（2003年）" url="https://v.youku.com/v_show/id_XNjIwNzYwMjYw.html" >}}
+    *  {{< target-blank title="演唱《只有孤單陪伴我》、《今夜又擱塊落雨》（1998年）" url="https://www.youtube.com/watch?v=zXcwujesf0c" >}}
 * 同一首歌（央視）
-    * {{< target-blank title="新春秀：與林淑容合唱《無言的結局》（2008年）" url="https://www.facebook.com/100011056602676/videos/608267822885099/" >}}
+    * {{< target-blank title="與董浩、曾媛、于培合唱《奉獻》（2003年）" url="https://v.youku.com/v_show/id_XNjIwNzYwMjYw.html" >}}
 * 中華情（央視）
     *  {{< target-blank title="新春秀：與林淑容合唱《無言的結局》（2008年）" url="https://www.facebook.com/100011056602676/videos/608267822885099/" >}}
     *  {{< target-blank title="情繫雲霄：演唱《無言的結局》（2009年）" url="http://vo.youku.com/v_show/id_XODQyMDA4MTY=.html" >}}

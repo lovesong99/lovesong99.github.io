@@ -19,6 +19,7 @@ table th:nth-of-type(3), th:nth-of-type(4) {
 標題  | 報導媒體  | 日期 | 地區
 --------------|-------|------|------ 
 {{< target-blank title="老鷹助陣、歌星下海 華視「百戰百勝」中視「來電五十」添人加料壯大聲勢" url="http://kgbz.pixnet.net/blog/post/348182251" >}} | TTV電視周刊1474期 | 1991年01月06日 |  台灣
+”來電”經常有 只是不持久 潘迎紫 不輕易發”高壓電” | 民生報 | 1991年 |  台灣
 {{< target-blank title="李茂山與李祖寧、任賢齊合照" url="http://nrch.culture.tw/view.aspx?keyword=%E6%9D%8E%E8%8C%82%E5%B1%B1&s=2280350&id=0000780134&proj=MOC_IMD_001" >}} | 中央日報 | 1991年05月27日 |  台灣
 {{< target-blank title="中時報系舉辦「唱遊四海」卡拉OK大賽，李茂山與秦晴（秦儷舫）兩人擔任主持人" url="http://catalog.digitalarchives.tw/item/00/5c/46/a1.html" >}} | 中國時報 | 1991年06月01日 |  台灣
 {{< target-blank title="李茂山與沈孟生、鄭進一、吳冠英合照" url="http://catalog.digitalarchives.tw/item/00/5c/46/d9.html" >}} | 中國時報 | 1991年07月01日 |  台灣

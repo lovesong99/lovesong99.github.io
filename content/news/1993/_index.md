@@ -1,7 +1,7 @@
 +++
 title = "1993"
 description = "1993年的報導列表"
-lastmod = 2019-05-12
+lastmod = 2019-05-17
 weight = 1993
 +++
 
@@ -43,6 +43,7 @@ table th:nth-of-type(3), th:nth-of-type(4) {
 {{< target-blank title="台視「強棒出擊」節目，李茂山回娘家" url="http://catalog.digitalarchives.tw/item/00/5c/44/5d.html" >}} | 中國時報 | 1993年08月01日 |  台灣
 {{< target-blank title="中視「歡樂一百點」節目，李茂山與江蕙、葉璦菱合照" url="http://catalog.digitalarchives.tw/item/00/5c/4a/46.html" >}} | 中國時報 | 1993年10月01日 |  台灣
 {{< target-blank title="中視「歡樂一百點」節目，李茂山與江蕙、葉璦菱合照" url="http://catalog.digitalarchives.tw/item/00/5c/4a/48.html" >}} | 中國時報 | 1993年10月01日 |  台灣
+想看什麼 阿兵哥 自己選 | 民生報 | 1993年10月01日 |  台灣
 {{< target-blank title="李茂山與澎恰恰合照" url="http://catalog.digitalarchives.tw/item/00/5c/46/77.html" >}} | 中國時報 | 1993年11月01日 |  台灣
 {{< target-blank title="李茂山與澎恰恰合照" url="http://catalog.digitalarchives.tw/item/00/5c/46/78.html" >}} | 中國時報 | 1993年11月01日 |  台灣
 {{< target-blank title="李茂山與陳俊生、孟庭葦、李翊君、張真合照" url="http://catalog.digitalarchives.tw/item/00/5c/37/f9.html" >}} | 中國時報 | 1993年12月17日 |  台灣

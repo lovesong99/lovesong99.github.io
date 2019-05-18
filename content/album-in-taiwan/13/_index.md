@@ -6,6 +6,7 @@ weight = 13
 +++
 
 {{< figure src="/img/000096.jpg" title="卡帶封套">}}
+{{< figure src="/img/000196.jpg" title="CD封面封底">}}
 
 
 ## 專輯資料

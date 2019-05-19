@@ -46,7 +46,7 @@ weight = 3
 
 ## 專輯曲目
 
-1. [遲來的愛（口白：胡艾屏）]({{%relref "album-in-sg-and-my/5/1.md"%}}) 
+1. [遲來的愛]({{%relref "album-in-sg-and-my/5/1.md"%}}) 
 2. [依然不會忘記]({{%relref "album-in-sg-and-my/5/2.md"%}}) 
 3. [不會形容的愛]({{%relref "album-in-sg-and-my/5/3.md"%}}) 
 4. [夜晚的街頭]({{%relref "album-in-sg-and-my/5/5.md"%}}) 

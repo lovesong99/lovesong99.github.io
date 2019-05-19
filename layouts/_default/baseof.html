@@ -6,6 +6,7 @@
     {{else}}
       {{ partial "flex/head.html" . }}
     {{end}}
+    {{ template "_internal/google_analytics.html" . }}
   </head>
   <body data-url="{{ .RelPermalink }}">
     {{if .Site.Params.themeStyle}}

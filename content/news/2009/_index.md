@@ -20,3 +20,4 @@ table th:nth-of-type(3), th:nth-of-type(4) {
 {{< target-blank title="邀歌迷方言口白《遲來的愛》．李茂山迎新送歡樂" url="http://www.sinchew.com.my/node/434826" >}}   | 星洲網 | 2009年01月28日 |  馬來西亞
 馬國開放門戶大型活動 歡慶中國新年   | 大紀元 | 2009年02月08日 |  馬來西亞
 {{< target-blank title="“第一次”唱三曲．李茂山獻聲玉虛宮" url="http://www.sinchew.com.my/node/744204" >}}   | 星洲網 | 2009年03月31日 |  馬來西亞
+賓士又少4個輪胎　張菲直言要找郭台銘賠   | NOWnews | 2009年04月01日 |  台灣

@@ -62,8 +62,8 @@ table th:nth-of-type(5) {
 家喻戶曉推薦曲：茶噢  
 
 一個雙手都握麥克風的藝人  
-<span style="border:1px solid black;">　左手主持　</span>金鐘獎最佳主持人　 
-<span style="border:1px solid black;">　右手唱歌　</span>金曲獎最佳方言男歌手  
+<span style="border:1px solid black;">　左手主持　</span> 金鐘獎最佳主持人　 
+<span style="border:1px solid black;">　右手唱歌　</span> 金曲獎最佳方言男歌手  
 阿山哥說：其實唱歌一直是我的最愛  
 最愛唱歌的阿山哥唱最好聽的台語歌  
 上華唱片歡喜推薦

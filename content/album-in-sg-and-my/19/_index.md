@@ -36,5 +36,6 @@ weight = 19
 10. [飄浪之女]({{%relref "album-in-taiwan/16/12.md"%}}) 
 11. [為什麼]({{%relref "album-in-taiwan/16/3.md"%}}) 
 12. [碎心戀]({{%relref "album-in-taiwan/16/1.md"%}}) 
-<br/>
-<br/>
+
+## 相關報導
+* [李茂山設音樂工作室 繼續交出最好的作品]({{%relref "news/1991/2.md"%}}) ，南洋商報，1991年07月14日

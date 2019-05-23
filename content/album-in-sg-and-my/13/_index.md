@@ -22,7 +22,7 @@ weight = 13
 
 ## 專輯曲目
 
-1. [惜別的晚暝]({{%relref "album-in-taiwan/7/1.md"%}}) 
+1. [惜別的晚暝（與林美音合唱）]({{%relref "album-in-taiwan/7/1.md"%}}) 
 2. [我也甘願]({{%relref "album-in-taiwan/7/2.md"%}}) 
 3. [過暝的咖啡]({{%relref "album-in-taiwan/7/8.md"%}}) 
 4. [不通越頭看過去]({{%relref "album-in-taiwan/7/3.md"%}}) 

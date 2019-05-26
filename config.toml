@@ -49,12 +49,12 @@ home = [ "HTML", "RSS", "JSON"]
 
 
  [[menu.shortcuts]]
-name = "<i class='fa fa-shopping-cart'></i> <label>瑞華唱片官方Lazada商城（星馬地區）</label>"
+name = "<i class='fa fa-shopping-cart'></i> <label>瑞華唱片官方Lazada商城（馬來西亞）</label>"
 url = "https://www.lazada.com.my/shop/suwah-music/"
 weight = 10
 
  [[menu.shortcuts]]
-name = "<i class='fa fa-shopping-cart'></i> <label>瑞華唱片官方蝦皮購物商店（馬來西亞）</label>"
+name = "<i class='fa fa-shopping-cart'></i> <label>瑞華唱片官方Shopee商店（馬來西亞）</label>"
 url = "https://shopee.com.my/suwahswc.os"
 weight = 20
 

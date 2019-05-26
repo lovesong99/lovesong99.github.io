@@ -53,15 +53,20 @@ name = "<i class='fa fa-shopping-cart'></i> <label>瑞華唱片官方Lazada商�
 url = "https://www.lazada.com.my/shop/suwah-music/"
 weight = 10
 
+ [[menu.shortcuts]]
+name = "<i class='fa fa-shopping-cart'></i> <label>瑞華唱片官方蝦皮購物商店（馬來西亞）</label>"
+url = "https://shopee.com.my/suwahswc.os"
+weight = 20
+
 [[menu.shortcuts]]
 name = "<i class='fa fa-facebook-official'></i> <label>瑞華唱片Facebook</label>"
 url = "https://www.facebook.com/SuwahMusic/"
-weight = 20
+weight = 30
 
 [[menu.shortcuts]]
 name = "<i class='fa fa-bullhorn'></i> <label>光美唱片官方網站</label>"
 url = "http://www.kuangmei.com.tw/"
-weight = 30
+weight = 40
 
 # [[menu.shortcuts]]
 # name = "<i class='fa fa-bookmark'></i> <label>Hugo Documentation</label>"

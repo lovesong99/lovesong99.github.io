@@ -1,7 +1,7 @@
 +++
 title = "賀新年迎財神"
 description = "李茂山1989年1月在星馬由瑞華唱片發行的第一張個人新年專輯《賀新年迎財神》的相關資料"
-lastmod = 2019-05-06
+lastmod = 2019-05-27
 weight = 12
 +++
 
@@ -10,6 +10,7 @@ weight = 12
 {{< figure src="/img/000048.jpg" title="1993年再版卡帶封套（更名《恭喜發財發大財》）">}}
 {{< figure src="/img/000049.jpg" title="1995年《恭喜發財發大財》再版卡帶封套">}}
 {{< figure src="/img/000036.jpg" title="復刻版CD封面封底">}}
+{{< figure src="/img/000342.jpg" title="2008年《恭喜發財發大財》CD封面">}}
 
 ## 專輯資料
 

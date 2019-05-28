@@ -1,7 +1,7 @@
 +++
 title = "國語老歌精選(一)"
 description = "李茂山1988年7月在台灣由光美唱片發行的國語老歌專輯《國語老歌精選(一)》的相關資料"
-lastmod = 2019-05-06
+lastmod = 2019-05-28
 weight = 5
 +++
 
@@ -42,5 +42,6 @@ weight = 5
 10. [明月千里寄相思]({{%relref "album-in-sg-and-my/4/8.md"%}}) 
 11. [昨夜夢醒時]({{%relref "album-in-sg-and-my/8/2.md"%}}) 
 12. [藍與黑]({{%relref "album-in-sg-and-my/8/10.md"%}}) 
-<br/>
-<br/>
+
+## 相關報導
+* {{< target-blank title="新歌試片" url="https://blog.xuite.net/jhqq98/twblog/325262904-%E3%80%8C%E6%96%B0%E6%AD%8C%E8%A9%A6%E7%89%87%E3%80%8D1347%E3%80%881988%E5%B9%B4%E3%80%89" >}}，TTV電視周刊1347期，1988年07月31日

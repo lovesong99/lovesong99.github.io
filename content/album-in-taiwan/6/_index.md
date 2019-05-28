@@ -1,7 +1,7 @@
 +++
 title = "國語老歌精選(二)"
 description = "李茂山1988年11月在台灣由光美唱片發行的國語老歌專輯《國語老歌精選(二)》的相關資料"
-lastmod = 2019-05-06
+lastmod = 2019-05-28
 weight = 6
 +++
 
@@ -51,5 +51,6 @@ weight = 6
 10. [尋夢園]({{%relref "album-in-sg-and-my/4/12.md"%}}) 
 11. [相見不如懷念]({{%relref "album-in-sg-and-my/8/8.md"%}}) 
 12. [夜空]({{%relref "album-in-sg-and-my/8/9.md"%}}) 
-<br/>
-<br/>
+
+## 相關報導
+* {{< target-blank title="流行線上" url="https://blog.xuite.net/jhqq98/twblog/325900598-%E3%80%8C%E6%B5%81%E8%A1%8C%E7%B7%9A%E4%B8%8A%E3%80%8DF890%E3%80%881988%E5%B9%B4%E3%80%89" >}}，華視綜合週刊890期，1988年11月13日

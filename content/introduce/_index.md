@@ -1,9 +1,31 @@
 +++
 title = "詳細介紹"
 description = "關於李茂山的詳細介紹"
-lastmod = 2019-05-28
+lastmod = 2019-05-30
 weight = 10
 +++
+
+
+<script>
+// 註腳偏移
+$(document).ready(function() {
+        $(".footnote-ref" ).click(function() {
+            setTimeout(function() {
+            var offset = jQuery(':target').offset();
+	        var scrollto = offset.top - 60; // minus fixed header height
+	        jQuery('html, body').animate({scrollTop:scrollto}, 0);
+       }, 10);
+     }); 
+        $(".footnote-return" ).click(function() {
+            setTimeout(function() {
+            var offset = jQuery(':target').offset();
+	        var scrollto = offset.top - 60; // minus fixed header height
+	        jQuery('html, body').animate({scrollTop:scrollto}, 0);
+       }, 10);
+     }); 
+});
+</script>
+
 
 {{< figure src="/img/000181.jpg"  alt="李茂山_1">}}
 
@@ -148,7 +170,6 @@ weight = 10
 第三屆金曲獎評審評語：「味濃格高，音樂性強，突破閩南語歌曲的傳統風格。」[^39]
 
 1999年馬來西亞南洋商報邀請了中文流行曲方面的專家，選出100位20世紀最具影響力的中文流行歌星，李茂山排行第38名。[^40]
-
 
 
 [^1]:{{< target-blank title="父親眼中的叛徒 李茂山手記①" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19860327-1.2.28.1" >}}，新加坡聯合晚報，1986年03月27日

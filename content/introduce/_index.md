@@ -5,28 +5,6 @@ lastmod = 2019-05-30
 weight = 10
 +++
 
-
-<script>
-// 註腳偏移
-$(document).ready(function() {
-        $(".footnote-ref" ).click(function() {
-            setTimeout(function() {
-            var offset = jQuery(':target').offset();
-	        var scrollto = offset.top - 60; // minus fixed header height
-	        jQuery('html, body').animate({scrollTop:scrollto}, 0);
-       }, 10);
-     }); 
-        $(".footnote-return" ).click(function() {
-            setTimeout(function() {
-            var offset = jQuery(':target').offset();
-	        var scrollto = offset.top - 60; // minus fixed header height
-	        jQuery('html, body').animate({scrollTop:scrollto}, 0);
-       }, 10);
-     }); 
-});
-</script>
-
-
 {{< figure src="/img/000181.jpg"  alt="李茂山_1">}}
 
 ## 早年經歷

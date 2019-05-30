@@ -5,7 +5,21 @@ jQuery(document).ready(function() {
         return false;
     });
 
-
+    // 註腳偏移
+    $(".footnote-ref" ).click(function() {
+        setTimeout(function() {
+        var offset = jQuery(':target').offset();
+        var scrollto = offset.top - 60; // minus fixed header height
+        jQuery('html, body').animate({scrollTop:scrollto}, 0);
+        }, 10);
+     }); 
+    $(".footnote-return" ).click(function() {
+        setTimeout(function() {
+        var offset = jQuery(':target').offset();
+        var scrollto = offset.top - 60; // minus fixed header height
+        jQuery('html, body').animate({scrollTop:scrollto}, 0);
+        }, 10);
+    }); 
 
     // Images
     // Execute actions on images generated from Markdown pages

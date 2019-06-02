@@ -1,7 +1,7 @@
 +++
 title = "閩南語專輯1 今夜又擱塊落雨/保重再會啦"
 description = "李茂山1986年在台灣由光美唱片發行的第一張台語專輯《閩南語專輯1 今夜又擱塊落雨/保重再會啦》的相關資料"
-lastmod = 2019-05-16
+lastmod = 2019-06-02
 weight = 2
 +++
 
@@ -77,5 +77,8 @@ weight = 2
 10. 握手期待
 11. 互相鼓勵
 12. 不願放妳走
-<br/>
-<br/>
+
+## 相關報導
+* {{< target-blank title="李茂山的外銷奇蹟" url="../../news/megazine/3" >}}，P.108～P.109
+* {{< target-blank title="李茂山是台灣「出口」的明星 而不是新加坡「進口」歌手" url="../../news/megazine/4" >}}，跳跳，P.68～P.71
+* {{< target-blank title="李茂山開「閩」腔" url="../../news/megazine/5" >}}，新姿少女雜誌，P.104

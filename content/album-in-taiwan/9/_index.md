@@ -1,7 +1,7 @@
 +++
 title = "國語老歌專輯3 良夜不能留/相思未了情"
 description = "李茂山1989年在台灣由光美唱片發行的國語老歌專輯《國語老歌專輯3 良夜不能留/相思未了情》的相關資料"
-lastmod = 2019-05-17
+lastmod = 2019-06-02
 weight = 9
 +++
 
@@ -72,3 +72,7 @@ weight = 9
 10. [我倆在一起]({{%relref "album-in-sg-and-my/15/3.md"%}}) 
 11. [相思未了情]({{%relref "album-in-sg-and-my/15/12.md"%}}) 
 12. [離情]({{%relref "album-in-sg-and-my/15/5.md"%}}) 
+
+## 相關報導
+* {{< target-blank title="李茂山老歌唱起大家思想起" url="../../news/megazine/16" >}}
+* {{< target-blank title="李茂山──國語老歌專輯三" url="../../news/megazine/17" >}}，P.186

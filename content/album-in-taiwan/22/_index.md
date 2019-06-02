@@ -1,7 +1,7 @@
 +++
 title = "再起東山"
 description = "李茂山1998年9月在台灣由金瓜石唱片發行的台語專輯《再起東山》的相關資料"
-lastmod = 2019-05-18
+lastmod = 2019-06-02
 weight = 22
 +++
 
@@ -122,5 +122,7 @@ weight = 22
 8. 拜託借過一下
 9. 無你是欲擱按怎
 10. 甘願為你等
-<br/>
-<br/>
+
+## 相關報導
+* {{< target-blank title="李茂山出片好運全靠”女人”！" url="../../news/megazine/25" >}}
+* {{< target-blank title="李茂山”再起東山” 好友方芳芳助陣" url="../../news/megazine/26" >}}，P.58

@@ -1,7 +1,7 @@
 +++
 title = "鄉情之旅(2) 針線情"
 description = "李茂山1991年12月在台灣由茂山音樂工作室製作、新格唱片發行的台語老歌專輯《鄉情之旅(2) 針線情》的相關資料"
-lastmod = 2019-05-30
+lastmod = 2019-06-02
 weight = 17
 +++
 
@@ -169,7 +169,6 @@ table th:nth-of-type(5) {
 * 12月再度推出個人第2張台語老歌專輯「鄉情之旅2.針線情」
 
 
-
 ## 專輯曲目
 
 1. 望你早歸
@@ -219,3 +218,6 @@ table th:nth-of-type(5) {
 5   | 1992年春季第5週 | 5
 {{< target-blank title="6" url="https://www.facebook.com/youthmusicbox/posts/2635401196488034" >}}   | 1992年春季第6、7週 | 3
 7   | 1992年春季第9週|  4
+
+## 相關報導
+* {{< target-blank title="「針線」博「情」意 李茂山" url="../../news/megazine/19" >}}，純純，新姊妹雜誌，P.97～P.98

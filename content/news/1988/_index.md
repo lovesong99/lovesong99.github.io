@@ -43,7 +43,6 @@ table th:nth-of-type(3), th:nth-of-type(4) {
 {{< target-blank title="林淑容李茂山將呈獻《閃耀繽紛麗都夜》" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19880724-1.2.18.10" >}} | 聯合晚報 | 1988年07月24日 |  新加坡
 {{< target-blank title="麗都皇宮廣告" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19880726-1.2.27.1" >}} | 聯合早報 | 1988年07月26日 |  新加坡
 {{< target-blank title="手錶鑲鑽石‧住豪華公寓 李茂山今年大豐收" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19880730-1.2.30.8" >}} | 聯合晚報 | 1988年07月30日 |  新加坡
-{{< target-blank title="新歌試片" url="https://blog.xuite.net/jhqq98/twblog/325262904-%E3%80%8C%E6%96%B0%E6%AD%8C%E8%A9%A6%E7%89%87%E3%80%8D1347%E3%80%881988%E5%B9%B4%E3%80%89" >}} | TTV電視周刊1347期 | 1988年07月31日 |  台灣
 {{< target-blank title="麗都皇宮廣告" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19880801-1.2.44.2" >}} | 聯合早報 | 1988年08月01日 |  新加坡
 {{< target-blank title="《歡樂繽紛》節目表" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19880801-1.2.28.6.1.5" >}} | 聯合晚報 | 1988年08月01日 |  新加坡
 {{< target-blank title="歌星吹起\"自然風\"" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19880803-1.2.55.3.1" >}} | 聯合早報 | 1988年08月03日 |  新加坡
@@ -57,5 +56,4 @@ table th:nth-of-type(3), th:nth-of-type(4) {
 {{< target-blank title="'金鐘獎'取消最佳歌手獎 李茂山好夢成空" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19881104-1.2.40.7" >}} | 聯合晚報 | 1988年11月04日 |  新加坡
 {{< target-blank title="藝人公會呼籲廣播局藝人加入" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19881106-1.2.26.13" >}} | 聯合晚報 | 1988年11月06日 |  新加坡
 {{< target-blank title="歌星中的\"暴發戶\"" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19881109-1.2.52.1.1" >}} | 聯合早報 | 1988年11月09日 |  新加坡
-{{< target-blank title="流行線上" url="https://blog.xuite.net/jhqq98/twblog/325900598-%E3%80%8C%E6%B5%81%E8%A1%8C%E7%B7%9A%E4%B8%8A%E3%80%8DF890%E3%80%881988%E5%B9%B4%E3%80%89" >}} | 華視綜合週刊890期 | 1988年11月13日 |  台灣
 {{< target-blank title="無標題" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19881225-1.2.56" >}} | 聯合早報 | 1988年12月25日 |  新加坡

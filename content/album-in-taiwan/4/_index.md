@@ -1,7 +1,7 @@
 +++
 title = "閩南語專輯2 我的心情"
 description = "李茂山1988年在台灣由光美唱片發行的第二張台語專輯《閩南語專輯2 我的心情》的相關資料"
-lastmod = 2019-05-17
+lastmod = 2019-06-02
 weight = 4
 +++
 
@@ -67,5 +67,9 @@ weight = 4
 10. 忍心做妳去
 11. 有情有義不免美
 12. 有力的關懷（卡拉）
-<br/>
-<br/>
+
+
+## 相關報導
+* {{< target-blank title="李茂山有一顆多情的心" url="../../news/megazine/8" >}}，文心，P.208～P.209
+* {{< target-blank title="李茂山對台灣市場有信心" url="../../news/megazine/9" >}}
+* {{< target-blank title="無標題" url="../../news/megazine/11" >}}

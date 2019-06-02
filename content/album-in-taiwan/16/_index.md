@@ -1,7 +1,7 @@
 +++
 title = "鄉情之旅(1) 碎心戀"
 description = "李茂山1991年6月在台灣由茂山音樂工作室製作、新格唱片發行的台語老歌專輯《鄉情之旅(1) 碎心戀》的相關資料"
-lastmod = 2019-05-30
+lastmod = 2019-06-02
 weight = 16
 +++
 
@@ -146,3 +146,7 @@ table th:nth-of-type(5) {
 5   | 1991年秋季第9、10週 | 3
 6   | 1991年秋季第11週 | 2
 {{< target-blank title="7" url="https://www.facebook.com/youthmusicbox/posts/2396642797030543" >}}   | 1991年秋季第12週|  2
+
+## 相關報導
+* {{< target-blank title="李茂山●鄉情之旅I" url="../../news/megazine/18" >}}
+* {{< target-blank title="李茂山踏入歌壇以來去年最風光" url="../../news/megazine/20" >}}，P.74～P.75

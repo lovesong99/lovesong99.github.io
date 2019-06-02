@@ -1,7 +1,7 @@
 +++
 title = "給我 再一次看著我"
 description = "李茂山1985年7月在台灣由光美唱片發行的國語專輯《給我 再一次看著我》的相關資料"
-lastmod = 2019-05-06
+lastmod = 2019-06-02
 weight = 1
 +++
 
@@ -37,5 +37,8 @@ weight = 1
 10. [夢幻的愛情]({{%relref "album-in-sg-and-my/1/9.md"%}}) 
 11. [為什麼]({{%relref "album-in-sg-and-my/1/4.md"%}}) 
 12. [錯誤的分手]({{%relref "album-in-sg-and-my/1/5.md"%}}) 
-<br/>
-<br/>
+
+
+## 相關報導
+* {{< target-blank title="李茂山挾海外聲威近軍國內" url="../../news/megazine/1" >}}，亦亦，新姊妹雜誌，P.66
+* {{< target-blank title="李茂山實力不可小視" url="../../news/megazine/2" >}}，P.157

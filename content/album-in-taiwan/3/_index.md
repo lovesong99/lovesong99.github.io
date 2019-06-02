@@ -1,7 +1,7 @@
 +++
 title = "國語專輯2 遲來的愛/依然不會忘記"
 description = "李茂山1987年3月在台灣由光美唱片發行的國語專輯《國語專輯2 遲來的愛/依然不會忘記》的相關資料"
-lastmod = 2019-05-16
+lastmod = 2019-06-02
 weight = 3
 +++
 
@@ -59,3 +59,4 @@ weight = 3
 
 ## 相關報導
 * {{< target-blank title="《情人節情歌大對唱》後 五對歌迷\"情侶\"與偶像共進晚餐" url="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19870216-1.2.26.1" >}}，新加坡聯合晚報，1987年02月16日
+* {{< target-blank title="李茂山的愛為什麼會遲到" url="../../news/megazine/6" >}}，余玉卿，P.47～P.54

@@ -1,7 +1,7 @@
 +++
 title = "鄉情之旅(2) 針線情"
 description = "李茂山1991年12月在台灣由茂山音樂工作室製作、新格唱片發行的台語老歌專輯《鄉情之旅(2) 針線情》的相關資料"
-lastmod = 2019-06-02
+lastmod = 2019-06-03
 weight = 17
 +++
 
@@ -203,7 +203,7 @@ table th:nth-of-type(5) {
 {{< target-blank title="7" url="https://www.facebook.com/youthmusicbox/posts/2669444166417070" >}}   | 1992年春季第10週 | 03／07～03／13 | 03／28 | 1  |  20.00|  17.00|  37.00 |
 {{< target-blank title="8" url="https://www.facebook.com/youthmusicbox/posts/2730704170291069" >}}   | 1992年夏季第1週 | 03／28～04／03 | 04／18 | 5  |  19.50|  16.00|  35.50 |
 {{< target-blank title="9" url="https://www.facebook.com/youthmusicbox/posts/2759843094043843" >}}   | 1992年夏季第4週 | 04／18～04／24 | 05／09 | 5  |  20.00|  16.00|  36.00 |
-10   | 1992年夏季第5週 | 04／25～05／01 | 05／16 | 5  |  待補|  待補|  待補 |
+{{< target-blank title="10" url="https://www.facebook.com/youthmusicbox/posts/2784460421582110" >}}   | 1992年夏季第5週 | 04／25～05／01 | 05／16 | 5  |  19.00 |  15.00|  34.00 |
 
 ### 銷售排行
 
